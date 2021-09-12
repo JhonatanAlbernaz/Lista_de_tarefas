@@ -1,0 +1,11 @@
+.background-image {
+    background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/1c7a904359e7584a96beb55b/pexels-photo-1036936.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 50em;
+}
+
+.text-color {
+    text-shadow: 7px 5px 10px #000000;
+    color: #fef4da;
+}
